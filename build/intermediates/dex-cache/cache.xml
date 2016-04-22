@@ -2,11 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/Users/janelle/Downloads/MyApplicationSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
         revision="23.0.3"
-        sha1="907eb07b808674e3c0fad23cda724e8b43bb69f4">
-        <dex dex="/Users/janelle/Downloads/MyApplicationSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18b5c6760beef7219f1b936aa7b6435b10054d9c/classes.dex" />
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_7d0eae515d696150e320221d360a9efa2380908b.jar" />
+    </item>
+    <item
+        jar="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_514cf914a6ceec72027a7777e88bec7566708d72.jar" />
+    </item>
+    <item
+        jar="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_2f179ae962b5e029d2003da2c17ba9a825f0c620.jar" />
+    </item>
+    <item
+        jar="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_9bbd7223c565400e2e5da461d877d10225af23a1.jar" />
+    </item>
+    <item
+        jar="/Users/janelle/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/pre-dexed/release/gson-2.4_3e4d3eac3c2c62053d884c866834869da11ddd9d.jar" />
+    </item>
+    <item
+        jar="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_bf5414bc3a62c3c121ac781733be50f230b79151.jar" />
+    </item>
+    <item
+        jar="/Users/janelle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/janelle/Coding Projects/AndroidStudioProjects/MyApplicationSample/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_73e12598c8c86be66cef3f69802a18ee5b34a747.jar" />
     </item>
 
 </items>
