@@ -27,17 +27,19 @@ public class DummyData {
 
     public static ArrayList<PieData> generateDummyPieData() {
         ArrayList<PieData> pieDatas = new ArrayList<>();
-        pieDatas.add(new PieData("50", "#FF5A5E", "#F7464A", "Green"));
-        pieDatas.add(new PieData("50", "#FDB45C", "#FFC870", "Yellow"));
-        pieDatas.add(new PieData("200", "#46BFBD", "#5AD3D1", "Yellow"));
+        pieDatas.add(new PieData("100", "#FF0000", "#FF3300", "Red"));
+        pieDatas.add(new PieData("100", "#EEEE00", "#EEEE70", "Yellow"));
+        pieDatas.add(new PieData("100", "#FFFFFF", "#FF99FF", "White"));
+        pieDatas.add(new PieData("100", "#000000", "#003300", "Black"));
         return pieDatas;
     }
 
     public static ChartData generateDummyChartData() {
         List<String> labels = new ArrayList<>();
-        labels.add("Developing");
-        labels.add("Other");
-        labels.add("Learning");
+        labels.add("Physical");
+        labels.add("Mental");
+        labels.add("Emotional");
+        labels.add("Spiritual");
 
         List<ChartDataSet> dataSets = new ArrayList<>();
         List<Double> data = new ArrayList<>();
