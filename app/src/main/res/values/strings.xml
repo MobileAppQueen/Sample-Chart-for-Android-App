@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample Active Circle Youth Project</string>
+    <string name="demo_button_pie_chart_title">Pie Chart</string>
+    <string name="demo_button_line_chart_title">Line Chart</string>
+    <string name="demo_button_radar_title">Radar Chart</string>
+    <string name="demo_button_doughnut_title">Doughnut Chart</string>
+    <string name="demo_button_polar_area_title">Polar Area Chart</string>
+    <string name="demo_button_bar_chart_title">Bar Chart</string>
+
+    <string name="chartify_index_url">file:///android_asset/chartjs/index.html</string>
+    <string name="chartify_load_javascript">javascript: window.chart = new Chart(document.getElementById(\'chart-area\').getContext(\'2d\')).%1$s(%2$s);</string>
+
+</resources>
